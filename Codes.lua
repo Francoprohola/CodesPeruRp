@@ -6,7 +6,8 @@ Codes = {}
 Codes = {
 	["royalecraft"] = 1000,
 	["frankodev"] = 599,
-	["yape"] = 10
+	["yape"] = 10,
+	["gaa"] = 50000
 }
 function Codes.IsServer()
 	if (game:GetService("RunService"):IsServer()) then
