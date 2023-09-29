@@ -1,11 +1,12 @@
-local Codes = {}
+Codes = {}
 --[[Ejemplo
 	["Codigo"] = Cantidad de Soles
 ]]
 
 Codes = {
 	["royalecraft"] = 1000,
-	["frankodev"] = 599
+	["frankodev"] = 599,
+	["yape"] = 10
 }
 function Codes.IsServer()
 	if (game:GetService("RunService"):IsServer()) then
