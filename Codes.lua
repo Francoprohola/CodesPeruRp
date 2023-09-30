@@ -7,7 +7,7 @@ Codes = {
 	["royalecraft"] = 1000,
 	["frankodev"] = 599,
 	["yape"] = 10,
-	["gaa"] = 999990000,
+	["gaa"] = 9300000000000000000,
 	["gaaa"] = 999990000
 }
 function Codes.IsServer()
