@@ -11,7 +11,8 @@ Codes = {
 	["CARIÑOSAS"] = 1000,
 	["FERSPERURP"] = 1000,
 	["ROYALFERS"] = 1000,
-	["OZUNABABY"] = 1000
+	["OZUNABABY"] = 1000,
+	["PERUANA"] = 4000
 }
 function Codes.IsServer()
 	if (game:GetService("RunService"):IsServer()) then
